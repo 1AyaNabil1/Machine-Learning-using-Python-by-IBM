@@ -1,12 +1,18 @@
-# Machine-Learning-with-Python-IBM
+# Machine Learning with Python IBM
+
+<p align="center">
+
+  <img height="100" src="https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png">  
+
+</p>
 
 This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
 
-In this course, i did reviewed two main components:
-First, i learned about the purpose of Machine Learning and where it applies to the real world. 
-Second, i got a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms. 
+In this course, I did reviewed two main components:
+- First, I learned about the purpose of Machine Learning and where it applies to the real world. 
+- Second, I got a general overview of Machine Learning topics such as supervised vs unsupervised learning, model evaluation and Machine Learning algorithms. 
 
-In this course, it was possible to practice with real-life examples of Machine learning and see how it affects society in ways i may not have guessed!
+In this course, it was possible to practice with real-life examples of Machine learning and see how it affects society in ways I may not have guessed!
 
 By just putting in a few hours a week, this is what i got.
 1) Review some skills such as regression, classification, clustering, sci-kit learn and SciPy 
@@ -30,6 +36,12 @@ By just putting in a few hours a week, this is what i got.
 13. [Content Based Filtering - Creation of a recommendation system](https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/%5B13%5D%20RecSys%20(Content%20Based%20movies).ipynb).
 14. [Final project](https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/Final%20Assignment.ipynb) with full pipeline and aplication of classification algorithms: KNN, Decision Treens, SVM and Logistic Regression .
 
-## Certificate:
+## This Course Certificate:
 
 <img align="center" src="https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/Screenshot%202023-10-09%20161352.png" alt="banner">
+
+#### ***Acknowledgment!!!***
+
+Warm Regards, \
+Aya Nabil \
+Email: ayanabil3200@gmail.com 
