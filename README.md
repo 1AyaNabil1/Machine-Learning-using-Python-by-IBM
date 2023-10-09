@@ -30,6 +30,6 @@ By just putting in a few hours a week, this is what i got.
 13. [Content Based Filtering - Creation of a recommendation system](https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/%5B13%5D%20RecSys%20(Content%20Based%20movies).ipynb).
 14. [Final project](https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/Final%20Assignment.ipynb) with full pipeline and aplication of classification algorithms: KNN, Decision Treens, SVM and Logistic Regression .
 
-## Certificate[1]:
+## Certificate:
 
-[1]: https://coursera.org/share/72c9d2bfeeca40b588ddacdf21385d20
+[1]: https://www.coursera.org/account/accomplishments/certificate/ZX7E2VQDETS9
