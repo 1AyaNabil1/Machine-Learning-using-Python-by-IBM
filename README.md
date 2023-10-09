@@ -32,4 +32,4 @@ By just putting in a few hours a week, this is what i got.
 
 ## Certificate:
 
-[1]: https://www.coursera.org/account/accomplishments/certificate/ZX7E2VQDETS9
+<img align="center" src="[assests/certificate.png](https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/Screenshot%202023-10-09%20161352.png)https://github.com/1AyaNabil1/Machine-Learning-using-Python-by-IBM/blob/main/Screenshot%202023-10-09%20161352.png" alt="banner">
